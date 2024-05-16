@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Saurabh</a></h1>
+<h1 align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F767&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Zakie+Khan)](https://git.io/typing-svg)
+
+  
+</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
