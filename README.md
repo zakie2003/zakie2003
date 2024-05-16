@@ -6,6 +6,7 @@
 
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source
 
+<h2>Tech Stack</h2>
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
