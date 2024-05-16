@@ -25,7 +25,7 @@ Saurabh</a></h1>
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
+<h3 align="center" > <img src="[https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
 
 
 
