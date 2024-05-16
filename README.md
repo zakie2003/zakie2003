@@ -1,8 +1,6 @@
-<center>
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06F702&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Zakie+Khan)](https://git.io/typing-svg)
 
-</center>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06F702&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Zakie+Khan)](https://git.io/typing-svg)
+
 
 <h2>Tech Stack</h2>
 <h4>Programming Languages</h4>
