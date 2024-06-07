@@ -21,7 +21,7 @@
 
 - 🌱 I'm in learning phase of NodeJS,ReactJS 
 
-- 📝 I regularly available online
+- 📝 I am regularly available online
 
 - 📫 How to reach me **zk.khan2003@gmail.com**
 
