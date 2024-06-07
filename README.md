@@ -13,21 +13,19 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a> 
+- 🔭 I'm studying at IIPS DAVV,Indore</a> 
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I’m currently Working on a Social Media App
 
-- 🤝 I’m available for freelancing.
+- 🤝 I’m available for Interships.
 
-- 🌱 I’m currently learning Swift,SwiftUI & <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a> 
+- 🌱 I'm in learning phase of NodeJS,ReactJS 
 
 - 📝 I regularly write articles on  <a href="https://phoenix.tech/griffyn/" target="blank">Dev</a>
 
-- 💬 Ask me about **React-Native & SwiftUI** 
+- 📫 How to reach me **zk.khan2003@gmail.com**
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="[https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf](https://zakiekhan.games/zak-resume%20(2).pdf)" target="blank">Resume</a>
 <br/>
 
 
