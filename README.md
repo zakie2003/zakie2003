@@ -21,7 +21,7 @@
 
 - 🌱 I'm in learning phase of NodeJS,ReactJS 
 
-- 📝 I regularly write articles on  <a href="https://phoenix.tech/griffyn/" target="blank">Dev</a>
+- 📝 I regularly available online
 
 - 📫 How to reach me **zk.khan2003@gmail.com**
 
