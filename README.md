@@ -28,6 +28,7 @@
 - 📄 Know about my experiences <a href="https://zakiekhan.games/zak-resume%20(2).pdf" target="blank">Resume</a>
 <br/>
 
+<img src='holopin.io/@zakie2003' alt='err'></img>
 
 <h2>Tech Stack</h2>
 <h4>Programming Languages</h4>
