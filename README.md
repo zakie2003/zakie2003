@@ -28,6 +28,7 @@
 - 📄 Know about my experiences <a href="https://zakiekhan.games/zak-resume%20(2).pdf" target="blank">Resume</a>
 <br/>
 
+<h2>Hacktober-Fest 2024 Contributor</h2>
 [![An image of @zakie2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zakie2003)](https://holopin.io/@zakie2003)
 
 <h2>Tech Stack</h2>
