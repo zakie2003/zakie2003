@@ -32,7 +32,6 @@
 
 [![An image of @zakie2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zakie2003)](https://holopin.io/@zakie2003)
 
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/Nk7xl3ljRpi1VEGBpouy0Q"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/Nk7xl3ljRpi1VEGBpouy0Q/image"></a><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>9 Nov 2024</p><script async="async" src="https://badgr.com/assets/widgets.bundle.js"></script></blockquote>
 
 <h2>Tech Stack</h2>
 <h4>Programming Languages</h4>
