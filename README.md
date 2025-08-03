@@ -28,9 +28,7 @@
 - 📄 Know about my experiences <a href="https://zakiekhan.games/zak-resume%20(2).pdf" target="blank">Resume</a>
 <br/>
 
-<h2>Badges</h2>
 
-<img src="https://images.credly.com/size/340x340/images/123abc/my-badge-name.png" alt="Badge Name">
 
 
 
