@@ -28,6 +28,10 @@
 - 📄 Know about my experiences <a href="https://zakiekhan.games/zak-resume%20(2).pdf" target="blank">Resume</a>
 <br/>
 
+<h2>Badges</h2>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b3e44929-be40-43bb-919f-45dff74718f3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <h2>Hacktober-Fest 2024 Contributor</h2>
 
 [![An image of @zakie2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zakie2003)](https://holopin.io/@zakie2003)
