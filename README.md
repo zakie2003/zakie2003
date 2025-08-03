@@ -30,7 +30,8 @@
 
 <h2>Badges</h2>
 
-![Badge Name]([https://images.credly.com/size/340x340/images/123abc/my-badge-name.png](https://www.credly.com/badges/b3e44929-be40-43bb-919f-45dff74718f3/public_url))
+<img src="https://images.credly.com/size/340x340/images/123abc/my-badge-name.png" alt="Badge Name">
+
 
 
 <h2>Hacktober-Fest 2024 Contributor</h2>
